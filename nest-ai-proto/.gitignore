@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+# Node
+node_modules/
+dist/
+# models & large files
+models/
+data/
+*.mp4
+*.wav
